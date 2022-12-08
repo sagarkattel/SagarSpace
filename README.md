@@ -6,8 +6,8 @@ Shows top posts from Hashnode, dev, Hackernews, Producthunt, Github and Techcrun
 
 <p align="center">
 
-
-![devspace-frame](https://user-images.githubusercontent.com/47467468/148253660-0ae80495-1d36-4a2b-a80d-7ac8ee33e5b8.png)
+![Screenshot](Capture.png)
+<!-- ![devspace-frame](https://user-images.githubusercontent.com/47467468/148253660-0ae80495-1d36-4a2b-a80d-7ac8ee33e5b8.png) -->
 
 
 Built with React and TailwindCSS
