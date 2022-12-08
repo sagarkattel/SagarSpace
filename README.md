@@ -6,7 +6,8 @@ Shows top posts from Hashnode, dev, Hackernews, Producthunt, Github and Techcrun
 
 <p align="center">
 
-![Screenshot](Capture.png)
+![Capture](https://user-images.githubusercontent.com/71958289/206404402-1993594e-eab4-43a2-9d12-9f2f86883025.PNG)
+
 <!-- ![devspace-frame](https://user-images.githubusercontent.com/47467468/148253660-0ae80495-1d36-4a2b-a80d-7ac8ee33e5b8.png) -->
 
 
